@@ -1,0 +1,43 @@
+---
+sidebar: sidebar 
+permalink: task-blob-enable-data-services.html 
+keywords: blob storage, blob working environment, azure blob storage accounts, azure blob working environment 
+summary: Después de descubrir las cuentas de almacenamiento de Azure Blob en BlueXP, podrás utilizar los servicios de datos de NetApp para tareas de backup, organización en niveles y sincronización de datos. 
+---
+= Use los servicios de datos de NetApp con el almacenamiento de Azure Blob
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+Después de descubrir las cuentas de almacenamiento de Azure Blob en BlueXP, podrás utilizar los servicios de datos de NetApp para tareas de backup, organización en niveles y sincronización de datos.
+
+* Utiliza el backup y la recuperación de datos de *BlueXP* para realizar copias de seguridad de los datos de tus sistemas ONTAP y Cloud Volumes ONTAP on-premises en el almacenamiento Azure Blob.
++
+Para comenzar, vaya al lienzo y arrastre y suelte un entorno de trabajo local de ONTAP o Cloud Volumes ONTAP en su entorno de trabajo de Azure Blob Storage.
+
++
+https://docs.netapp.com/us-en/bluexp-backup-recovery/concept-ontap-backup-to-cloud.html["Más información sobre los backups de datos de ONTAP en el almacenamiento de Azure Blob"^].
+
+* Utiliza la organización en niveles *BlueXP* para organizar en niveles los datos inactivos de los clústeres de ONTAP on-premises en el almacenamiento de Azure Blob.
++
+Para comenzar, vaya al lienzo y arrastre y suelte un entorno de trabajo de ONTAP local en su entorno de trabajo de Azure Blob Storage.
+
++
+https://docs.netapp.com/us-en/bluexp-tiering/task-tiering-onprem-azure.html["Obtenga más información sobre la organización en niveles de los datos de ONTAP en el almacenamiento de Azure Blob"^].
+
+* Usa *BlueXP copy and sync* para sincronizar datos con o desde cuentas de almacenamiento de Azure Blob.
++
+Para empezar, vaya al lienzo y arrastre y suelte el entorno de trabajo de origen en el entorno de trabajo de destino. El entorno de trabajo de Azure Blob Storage puede ser el origen o el destino.
+
++
+También puede seleccionar su entorno de trabajo de Azure Blob Storage y hacer clic en *Copiar y sincronizar* en el panel Servicios para sincronizar datos con o desde cuentas de almacenamiento de Azure Blob.
+
++
+https://docs.netapp.com/us-en/bluexp-copy-sync/concept-cloud-sync.html["Obtén más información sobre el servicio de copia y sincronización de BlueXP"^].
+
+
