@@ -1,24 +1,6 @@
----
-sidebar: sidebar 
-permalink: whats-new.html 
-keywords: 'what"s new, features, new, release notes, limitations, known issues, enhancements, fixes' 
-summary: Descubre las novedades de Azure Blob Storage en BlueXP. 
----
-= Novedades de Azure Blob Storage en BlueXP
-:hardbreaks:
+= Capacidad de añadir nuevas cuentas de almacenamiento desde BlueXP
 :allow-uri-read: 
-:nofooter: 
-:icons: font
-:linkattrs: 
-:imagesdir: ./media/
 
-
-[role="lead"]
-Descubre las novedades de Azure Blob Storage en BlueXP.
-
-
-
-== 5 de junio de 2023
 
 
 

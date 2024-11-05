@@ -123,7 +123,6 @@
   <block id="3bec690d07df1a3a36c8a3122654fc24" category="section-title">5 de junio de 2023</block>
   <block id="f9037e3eb23130835367334e3aa5a34b" category="section-title">Capacidad de añadir nuevas cuentas de almacenamiento desde BlueXP</block>
   <block id="a39e8d6ee8bc43ef75656b419fe7a86e" category="inline-link">Descubre cómo añadir nuevas cuentas de almacenamiento de Azure Blob</block>
-  <block id="34738f8a469a7971575b53ff1435539f" category="paragraph">Has tenido la capacidad de ver Azure Blob Storage en BlueXP Canvas durante bastante tiempo. Ahora puedes añadir nuevas cuentas de almacenamiento y cambiar las propiedades de las cuentas de almacenamiento existentes directamente desde BlueXP.<block ref="7f415337c5df45cbb7bfeb019667a476" category="inline-link-rx"></block>.</block>
   <block id="243263104c829e77835d632f591230d5" category="summary">Antes de poder abrir un caso de soporte con el soporte técnico de NetApp, debe añadir una cuenta de la página de soporte de NetApp a BlueXP y, a continuación, registrarse para recibir soporte.</block>
   <block id="42748df9eaa0be17ddc5cc1593cf57ab" category="doc">Regístrese para recibir soporte</block>
   <block id="0b0e252af8897fbe981ec6682d2aa33b" category="section-title">Información general del registro de soporte</block>
@@ -308,4 +307,5 @@
   <block id="0ca08a23718c0a91743dd6c0146ca353" category="paragraph">Es necesario asociar las credenciales del sitio de soporte de NetApp con su organización de BlueXP  para habilitar los siguientes flujos de trabajo clave para Cloud Volumes ONTAP:</block>
   <block id="c81c8e01f5d906ae1ab0c5c606f06b05" category="paragraph">La asociación de credenciales de NSS a la organización de BlueXP  es diferente de la cuenta de NSS asociada con un inicio de sesión de usuario de BlueXP .</block>
   <block id="8166996cb4a59c147200d89a061bb49c" category="paragraph">Estas credenciales de NSS están asociadas con su ID de organización de BlueXP  específico. Los usuarios que pertenecen a la organización BlueXP  pueden acceder a estas credenciales desde *Soporte &gt; Administración de NSS*.</block>
+  <block id="3e9d2d36df8c91d7e9151cc5775042a8" category="paragraph">Has tenido la capacidad de ver Azure Blob Storage en BlueXP Canvas durante bastante tiempo. Ahora puede añadir nuevas cuentas de almacenamiento y cambiar las propiedades de las cuentas de almacenamiento existentes directamente desde BlueXP .<block ref="432ae671c636de993f8b5290b51ad53f" category="inline-link-rx"></block>.</block>
 </blocks>
